@@ -1,0 +1,5 @@
+buat dulu contoh sistem apa saja yang dapat mendukung operasional sehari-hari di laundry
+sekarang buatalah program bahasa c untuk sistem mencatat data pelanggan yang mendukung operasional sehari hari di laundry del
+program ini buat tanpa adanya inputan biaya
+menurutmu apakah soal yang say aberikan tadi untuk membuat suatu program itu sudah mendukung operasional sehari hari di laundry del
+pada program kita disuruh untuk menginput menu apa maksudnya

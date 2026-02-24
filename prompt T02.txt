@@ -1,0 +1,7 @@
+Buatlah semua program bahasa c dari masalah berikut Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan. Input: 1. Jumlah total data (N). 2. Deret nilai (n1, n2, …, n). 3. Kode kelompok siswa Dimana yang akan kita input itu seperti pada gambar
+Berdasarkan pola rak yang “bertingkat/berselang” seperti pada gambar (data disusun rapat lalu dipisah berdasarkan urutan posisi), pola yang paling umum digunakan adalah: Kelompok 1 → indeks ke-1, 4, 7, 10, … Kelompok 2 → indeks ke-2, 5, 8, 11, … Kelompok 3 → indeks ke-3, 6, 9, 12, … Artinya pemisahan berdasarkan (index % 3).
+Jelaskan apa maksud dari pernyataan tersebut, apakah itu sudah ketentuan atau gimana
+apa arti dari gambar yang saya kirim, bukankah dari rak fisik itu kita buat programnya?
+buatkan sekali lagi program bahasa c nya
+apakah ada perbedaan dari program yang pertama dengan program yang kedua
+bagaimana cara mencoba program ini
